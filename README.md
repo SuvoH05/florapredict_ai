@@ -44,12 +44,12 @@ This project is built as a scalable prototype that currently runs via Command Li
 ## 📁 Project Structure
 
 FloraPredictAI/
-│
-├── dataset.csv
-├── train_model.py
-├── predict.py
-├── model.pkl
-├── encoder.pkl
+│ 
+├── dataset.csv 
+├── train_model.py 
+├── predict.py 
+├── model.pkl 
+├── encoder.pkl 
 └── requirements.txt
 
 
