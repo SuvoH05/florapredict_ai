@@ -58,14 +58,18 @@ FloraPredictAI/
 ## ⚙️ Installation
 ```bash
 pip install pandas scikit-learn joblib
+```
 
 ▶️ How to Run
 Train the Model:-
+```bash
 python train_model.py
+```
 Predict a Species
+```bash
 python predict.py
-
-🔮 Future Scope
+```
+#🔮 Future Scope
 
 Web App using Flask / FastAPI
 
@@ -77,6 +81,5 @@ Large-scale agricultural datasets
 
 Cloud-based ML deployment
 
-👨‍💻 Developed By
-
-[Your Name]
+#👨‍💻 Developed By-
+Suvojoti Howlader
