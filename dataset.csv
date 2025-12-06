@@ -1,0 +1,49 @@
+soil_type,light,moisture,temperature,disturbance,human_interference,ph,species
+Sandy,High,Low,35,Low,Low,6.5,Cactus
+Clay,Medium,High,28,Low,Medium,6.8,Rice
+Loamy,High,Medium,30,Low,Low,6.5,Wheat
+Sandy,High,Low,40,Medium,Low,7.0,Desert Grass
+Clay,Low,High,26,Low,High,6.2,Paddy
+Loamy,Medium,Medium,25,Low,Low,6.8,Maize
+Silty,High,High,27,Low,Low,6.5,Sunflower
+Sandy,Low,Low,38,High,Medium,7.5,Thorn Bush
+Loamy,High,High,24,Low,Low,6.7,Sugarcane
+Clay,Medium,High,29,Low,Low,6.0,Cotton
+Loamy,High,Medium,32,Low,Low,6.4,Wheat
+Sandy,High,Low,36,Low,Low,6.9,Cactus
+Clay,Medium,High,27,Low,Medium,6.3,Rice
+Loamy,Medium,Medium,26,Low,Low,6.6,Maize
+Silty,High,High,28,Low,Low,6.8,Sunflower
+Sandy,Low,Low,39,High,Low,7.6,Thorn Bush
+Loamy,High,High,25,Low,Low,6.7,Sugarcane
+Clay,Medium,High,30,Low,Low,6.1,Cotton
+Loamy,High,Medium,31,Low,Low,6.5,Wheat
+Sandy,High,Low,37,Low,Low,7.1,Cactus
+Clay,Medium,High,28,Low,Medium,6.7,Rice
+Loamy,Medium,Medium,27,Low,Low,6.9,Maize
+Silty,High,High,26,Low,Low,6.4,Sunflower
+Sandy,Low,Low,40,High,Medium,7.7,Thorn Bush
+Loamy,High,High,24,Low,Low,6.8,Sugarcane
+Clay,Medium,High,29,Low,Low,6.2,Cotton
+Loamy,High,Medium,33,Low,Low,6.3,Wheat
+Sandy,High,Low,38,Low,Low,6.6,Cactus
+Clay,Medium,High,27,Low,Medium,6.5,Rice
+Loamy,Medium,Medium,28,Low,Low,6.7,Maize
+Silty,High,High,29,Low,Low,6.9,Sunflower
+Sandy,Low,Low,41,High,Low,7.8,Thorn Bush
+Loamy,High,High,26,Low,Low,6.6,Sugarcane
+Clay,Medium,High,30,Low,Low,6.4,Cotton
+Loamy,High,Medium,34,Low,Low,6.2,Wheat
+Sandy,High,Low,39,Low,Low,7.0,Cactus
+Clay,Medium,High,28,Low,Medium,6.9,Rice
+Loamy,Medium,Medium,29,Low,Low,6.8,Maize
+Silty,High,High,27,Low,Low,6.3,Sunflower
+Sandy,Low,Low,42,High,Medium,7.9,Thorn Bush
+Loamy,High,High,25,Low,Low,6.9,Sugarcane
+Clay,Medium,High,31,Low,Low,6.0,Cotton
+Loamy,High,Medium,35,Low,Low,6.1,Wheat
+Sandy,High,Low,41,Low,Low,7.2,Cactus
+Clay,Medium,High,29,Low,Medium,6.6,Rice
+Loamy,Medium,Medium,30,Low,Low,6.9,Maize
+Silty,High,High,28,Low,Low,6.7,Sunflower
+Loamy,High,High,27,Low,Low,6.5,Sugarcane
