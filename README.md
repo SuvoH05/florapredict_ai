@@ -42,7 +42,7 @@ This project is built as a scalable prototype that currently runs via Command Li
 ---
 
 ## 📁 Project Structure
-
+```
 FloraPredictAI/
 │ 
 ├── dataset.csv 
@@ -51,7 +51,7 @@ FloraPredictAI/
 ├── model.pkl 
 ├── encoder.pkl 
 └── requirements.txt
-
+```
 
 ---
 
